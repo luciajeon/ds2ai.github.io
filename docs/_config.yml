@@ -31,7 +31,12 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekflix
+themeColor: "#0f73ff"
+show_hero: true
+two_columns_layout: true
+show_modal_on_finish_post: false
+
 plugins:
   - jekyll-feed
 
